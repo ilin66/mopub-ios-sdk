@@ -81,3 +81,4 @@ If you would like to opt out of viewability measurement but do not want to modif
 ## License
 
 We have launched a new license as of version 3.2.0. To view the full license, visit [http://www.mopub.com/legal/sdk-license-agreement/](http://www.mopub.com/legal/sdk-license-agreement/)
+
